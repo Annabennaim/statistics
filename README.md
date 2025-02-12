@@ -1,7 +1,7 @@
 # The correlation between academic success and sport using RStudio
-In this repertory, you can find a project I made in R. The subject is the correlation between academic success and sport. Indeed, it is now well known that sport in very important for the well-being of our body as well as for our brain. 
-Therefore, with a classmate, we decided to look and analyse if there was a link between good grades and sport.
-For this project, we needed to do a a form and we had 102 responses.
+In this repository, you will find a project I conducted in R, exploring the correlation between academic success and sports. It is well established that sports play a crucial role in both physical and mental well-being.
+
+With a classmate, we decided to analyze whether there is a link between athletic activity and academic performance. To gather data, we designed a survey and received 102 responses.
 
 ## The variables:
 We decided to analyse three types of data:
@@ -27,4 +27,21 @@ Here are graphs for each variable (the form was in French):
 ![Capture d’écran 2025-02-09 à 00 30 37](https://github.com/user-attachments/assets/18f2a42a-c028-432d-87ca-7ef199e6a217)
 
 
+## Estimation and Confidence level:
+Point estimation and confidence intervals are calculated for PSL sport membership at different confidence levels (90% and 95%).
+The confidence intervals help determine how representative the survey results are for the larger student population.
 
+## Conformity test:
+A conformity test is conducted to analyze whether students, on average, engage in sports at a certain frequency per week.
+Results indicate that students practice sports approximately twice a week.
+
+## Comparison test:
+A test is performed to compare the proportion of students with high grades among those who study more than 10 hours per week versus those who study less.
+The results suggest that study time alone is not the only determinant of good grades, implying that sports may play a role.
+
+## Chi-square test:
+A chi-square test of independence is conducted to examine the relationship between sports practice and grades.
+The test confirms that the two variables are dependent, meaning that there is a statistically significant link between sports practice and academic performance.
+
+## Conclusion:
+The study concludes that practicing sports is positively correlated with academic success. Students who engage in regular physical activity tend to have better grades. Additionally, survey results show that 62.75% of respondents believe that sports positively impact academic performance. The project reinforces the idea that sports should be seen not just as a leisure activity but as a beneficial practice for both mental and physical health, ultimately supporting academic achievement.
