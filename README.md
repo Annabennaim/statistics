@@ -5,8 +5,11 @@ With a classmate, we decided to analyze whether there is a link between athletic
 
 ## The variables:
 We decided to analyse three types of data:
+
 • 4 categorical variables: the gender of the student, if they subscribed to PSL Sport, if the student think that sport is accessible in Dauphine and if the practice of a sport influence grades.
+
 • 1 discrete quantitative variable: How many times a week does the student practice a sport?
+
 • 2 continuous quantitatives variables: the grades of the student and the number of hours he use to work
 per week.
 
